@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="open_url"><B>OPEN URL</B></string>
+</resources>
