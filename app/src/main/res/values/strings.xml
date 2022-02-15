@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NameRollPrint</string>
+    <string name="name"><u>-:NAME:-</u></string>
+    <string name="section"><u>-:SECTION:-</u></string>
+    <string name="enroll"><u>-:ENROLLMENT NO:-</u></string>
+    <string name="roll"><u>-:ROLL NO:-</u></string>
+
+</resources>
