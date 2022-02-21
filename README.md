@@ -18,43 +18,46 @@
 
 <div align="justified">
  
-This is a simple egg-timer app using java. In this app we can set timer upto 60 miutes time. To start the timer we have to click on Go! button and to stop the timer we have to press on stop button. The timer seek is very easy to use.
+Timer is a specialized type of clock used for measuring specific time intervals. This is a simple egg-timer app using java.  In this app we can set timer upto 60 miutes time. To start the timer we have to click on Go! button and to stop the timer we have to press on stop button. The timer seek is very easy to use. The sound of the timer is of chicken sound. The timer alerts user whenever they want.
 
 </div>
 
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1svNssIlleC-rxT1DrgBDLsotTEKRrUg_/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
 <div align="justified">
        
-I have made this brain trainer android application for people of any ages for checking their speed and attentiveness.
+I have made this egg timer app so that people easily set a timer whenever they need. 
+ 
 </div>
        
 ## Importance :point_down:
 
 <div align="justified">
 
-People of all ages use these games to improve mental functioning and prevent brain aging. Brain training may help improve your memory, response time, and logic skills, although research shows that the relationship between brain training games and improved cognitive function is complicated. Although brain games might not have the magical benefits you hoped for, they are not a total wash. Turns out, by playing a certain game over and over again, you are actually changing the way your brain works. “The benefits engendered by video game play are often the result of neuroplasticity, the ability of the brain to modify its structure, chemistry, and function in response to a challenge."
+The timer is an important application in Embedded systems, it maintains the timing of an operation in sync with a system clock or an external clock. The timer has so many applications such as measure time generating delays, they can also be used for generating baud rates.
  
 </div>
 
 ## Folder Structure :point_down:
 ```bash
-brain-trainer-android-app
+egg-timer-app
       └── app
            └── src
+                ├──android/java/com/example/eggtimer
+                |                             └── ExampleInstrumentedTest.java
+                ├── test/java/com/example/eggtimer
+                |                             └── ExampleUnitTest.java
                 └── main
-                      └── java/com/example/braintrainer
-                                     ├── MainActivity.java
-                                     ├── gointent.java
-                                     └── splashscreen.java   
+                      └── java/com/example/eggtimer
+                                     └── MainActivity.java  
  ```                      
 ## Making :point_down:
 
 <div align="justified">
 
-I have created main 3 java files to create this android app. I have created MainActivity.java, gointent.java, splashscreen.java and created some logics for implementation of this app. 
+I have created main 3 java files to create this android app. I have created MainActivity.java, ExampleInstrumentedTest.java, ExampleUnitTest.java and created some logics for implementation of this app. 
 
 </div>
 
@@ -63,9 +66,7 @@ I have created main 3 java files to create this android app. I have created Main
 
 <div align="center">
   
-<a href="pics/bt1.jpeg"><img src="pics/bt1.jpeg" width="250" height= "450"></a> <a href="pics/bt2.jpeg"><img src="pics/bt2.jpeg" width="250" height= "450"></a> <a href="pics/bt3.jpeg"><img src="pics/bt3.jpeg" width="250" height= "450"></a>
- 
-<a href="pics/bt4.jpeg"><img src="pics/bt4.jpeg" width="250" height= "450"></a> <a href="pics/bt5.jpeg"><img src="pics/bt5.jpeg" width="250" height= "450"></a> <a href="pics/bt6.jpeg"><img src="pics/bt6.jpeg" width="250" height= "450"></a>
+<a href="pics/eg1.jpeg"><img src="pics/eg1.jpeg" width="250" height= "450"></a> <a href="pics/eg2.jpeg"><img src="pics/eg2.jpeg" width="250" height= "450"></a> <a href="pics/eg3.jpeg"><img src="pics/eg3.jpeg" width="250" height= "450"></a>
        
 </div>
 
