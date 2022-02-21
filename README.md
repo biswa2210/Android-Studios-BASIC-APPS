@@ -1,8 +1,8 @@
-# Brain-Trainer-ANDROID-APP :star_struck: 
+# EGG-TIMERr-ANDROID-APP :star_struck: 
 
 [![Generic badge](https://img.shields.io/badge/java-v%2015-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-app-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/xml-UI-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/classpath-v%204.0.1-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/compile%20sdk%20-v%2030-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/buildtool%20-v%2030.0..2-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/target%20sdk-v%2030-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/min%20sdk-v%2016-purple)](https://shields.io/) 
 
-***This new android application named 'BRAIN-TRAINER-APP' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new android application named 'EGG-TIMER-APP' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -18,11 +18,11 @@
 
 <div align="justified">
  
-This Brain Trainer android application is created with java. Brain training games ask players to complete tasks that practice specific cognitive skills like memory, attention, logic, and quick thinking.Here if we open this app and start by clicking on the button 'GET STARTED', a mcq test will be started with questions of sums. Here we have to choose the correct answer among four questions. For 30 seconds this test wil continue then we will get the score out of no. of questions attended the no. of correct answers. This test is to check our speed and attentiveness. As much our score is as fast we can work. Here I have designed the app with an arc reacter which starts at the beginning of the test and stops at the end. We can start the test again by clicking on the button 'PLAY AGAIN'. This app is very easy to use and helpful to check our speed.
+This is a simple egg-timer app using java. In this app we can set timer upto 60 miutes time. To start the timer we have to click on Go! button and to stop the timer we have to press on stop button. The timer seek is very easy to use.
 
 </div>
 
-## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1oWa9ZBfbnRb4JFa-2zTFMaAJbEsiVub9/view" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
 
 ## Purpose :point_down:
 
