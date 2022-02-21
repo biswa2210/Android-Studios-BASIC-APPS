@@ -18,11 +18,11 @@
 
 <div align="justified">
  
-
+This is a basic android app created using java. Here we have to paste any valid uniform resource locator(URL) and the link can be opened by pressing 'OPEN URL' button. After clicking on it the options on that device to open that link will be shown. It is basically practice to make implecit intents in android development. This app can be used to open any url very easily. 
 
 </div>
 
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1C101exAbtyeNK0P7TN9VNhsx_ON48WXx/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
@@ -44,11 +44,8 @@
 egg-timer-app
       └── app
            └── src
-                ├──android/java/com/example/eggtimer
-                |                             └── ExampleInstrumentedTest.java
-                ├── test/java/com/example/eggtimer
-                |                             └── ExampleUnitTest.java
                 └── main
+                      ├── AndroidManifest.xml
                       └── java/com/example/eggtimer
                                      └── MainActivity.java  
  ```                      
@@ -65,7 +62,7 @@ I have created main 3 java files to create this android app. I have created Main
 
 <div align="center">
   
-<a href="pics/eg1.jpeg"><img src="pics/eg1.jpeg" width="250" height= "450"></a> <a href="pics/eg2.jpeg"><img src="pics/eg2.jpeg" width="250" height= "450"></a> <a href="pics/eg3.jpeg"><img src="pics/eg3.jpeg" width="250" height= "450"></a>
+<a href="pics/im1.jpeg"><img src="pics/im1.jpeg" width="250" height= "450"></a> <a href="pics/im2.jpeg"><img src="pics/im2.jpeg" width="250" height= "450"></a> <a href="pics/im3.jpeg"><img src="pics/im3.jpeg" width="250" height= "450"></a>
        
 </div>
 
