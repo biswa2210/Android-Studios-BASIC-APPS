@@ -28,7 +28,7 @@ This is a basic android app created using java. Here we have to paste any valid 
 
 <div align="justified">
        
-
+I have made this app as a practice of implecit intents and also for opening urls easily.
  
 </div>
        
@@ -36,24 +36,25 @@ This is a basic android app created using java. Here we have to paste any valid 
 
 <div align="justified">
 
+In android, Implicit Intents won’t specify any name of the component to start instead, it declare an action to perform and it allows a component from other apps to handle it. For example, by using implicit intents we can request another app to show the location details of the user or etc. Implecit Intents are very useful in android.
  
 </div>
 
 ## Folder Structure :point_down:
 ```bash
-egg-timer-app
+implecit-intents-app
       └── app
            └── src
                 └── main
                       ├── AndroidManifest.xml
-                      └── java/com/example/eggtimer
+                      └── java/com/example/implecitintents
                                      └── MainActivity.java  
  ```                      
 ## Making :point_down:
 
 <div align="justified">
 
-I have created main 3 java files to create this android app. I have created MainActivity.java, ExampleInstrumentedTest.java, ExampleUnitTest.java and created some logics for implementation of this app. 
+I have used implecit intents concept to make this app using java in android studious.
 
 </div>
 
