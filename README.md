@@ -1,4 +1,4 @@
-# EGG-TIMERr-ANDROID-APP :star_struck: 
+# EGG-TIMER-ANDROID-APP :star_struck: 
 
 [![Generic badge](https://img.shields.io/badge/java-v%2015-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-app-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/xml-UI-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/classpath-v%204.0.1-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/compile%20sdk%20-v%2030-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/buildtool%20-v%2030.0..2-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/target%20sdk-v%2030-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/min%20sdk-v%2016-purple)](https://shields.io/) 
 
