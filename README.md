@@ -42,13 +42,17 @@ A kg to lbs converter app always becomes useful for anyone.
 
 ## Folder Structure :point_down:
 ```bash
-kg-to-lb-android-app
+kg-to-lb-app
       └── app
            └── src
+                ├──android/java/com/example/kgtolb
+                |                             └── ExampleInstrumentedTest.java
+                ├── test/java/com/example/kgtolb
+                |                             └── ExampleUnitTest.java
                 └── main
                       └── java/com/example/kgtolb
-                                     └── MainActivity.java   
- ```                      
+                                     └── MainActivity.java  
+ ```             
 ## Making :point_down:
 
 <div align="justified">
