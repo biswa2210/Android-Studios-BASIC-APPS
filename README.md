@@ -34,14 +34,17 @@ I have made this app to practice media playing in android app.
 
 ## Folder Structure :point_down:
 ```bash
-kusu-world-app
+kg-to-lb-app
       └── app
            └── src
+                ├──android/java/com/example/kgtolb
+                |                             └── ExampleInstrumentedTest.java
+                ├── test/java/com/example/kgtolb
+                |                             └── ExampleUnitTest.java
                 └── main
-                      ├── AndroidManifest.xml
-                      └── java/com/example/implecitintents
+                      └── java/com/example/kgtolb
                                      └── MainActivity.java  
- ```                      
+ ```                               
 ## Making :point_down:
 
 <div align="justified">
