@@ -41,7 +41,16 @@
 
 ## Folder Structure :point_down:
 ```bash
-
+name-roll-print-app
+      └── app
+           └── src
+                ├──android/java/com/example/namerollprint
+                |                             └── ExampleInstrumentedTest.java
+                ├── test/java/com/example/namerollprint
+                |                             └── ExampleUnitTest.java
+                └── main
+                      └── java/com/example/namerollprint
+                                     └── MainActivity.java  
  ```                      
 ## Making :point_down:
 
