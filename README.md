@@ -18,24 +18,17 @@
 
 <div align="justified">
  
-
+This is a simple name roll printing app using java. This is an android app which takes name, roll no., section, enrolment no. from user and prints them in another page. I have made this using java. It is a basic app for practicing the basic of android development.
 
 </div>
 
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1S_WczSbxSLGaluG4hDFtBjmkRESLf9dP/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
 <div align="justified">
        
-
-</div>
-       
-## Importance :point_down:
-
-<div align="justified">
-
-
+I have made this app for practising android development basic. 
  
 </div>
 
@@ -44,19 +37,20 @@
 name-roll-print-app
       └── app
            └── src
-                ├──android/java/com/example/namerollprint
+                ├── android/java/com/example/namerollprint
                 |                             └── ExampleInstrumentedTest.java
                 ├── test/java/com/example/namerollprint
                 |                             └── ExampleUnitTest.java
                 └── main
                       └── java/com/example/namerollprint
-                                     └── MainActivity.java  
+                                     ├── MainActivity.java 
+                                     └── MainActivity2.java  
  ```                      
 ## Making :point_down:
 
 <div align="justified">
 
-
+I have created this app using basic java concepts in android development. I have created two java files for two actvities and two xml files to design them.
 
 </div>
 
