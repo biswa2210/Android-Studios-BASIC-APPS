@@ -37,12 +37,12 @@ I have made this app to practice media playing in android app.
 kg-to-lb-app
       └── app
            └── src
-                ├──android/java/com/example/kusuworld
+                ├──android/java/com/example/mediaapp
                 |                             └── ExampleInstrumentedTest.java
-                ├── test/java/com/example/kusuworld
+                ├── test/java/com/example/mediaapp
                 |                             └── ExampleUnitTest.java
                 └── main
-                      └── java/com/example/kusuworld
+                      └── java/com/example/mediaapp
                                      └── MainActivity.java  
  ```                               
 ## Making :point_down:
