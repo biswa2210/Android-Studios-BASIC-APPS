@@ -28,7 +28,7 @@ This is a kg to lb convertion android app made using java. Kg and Lb are units o
 
 <div align="justified">
        
-I have mad this kg to lb app to practice logic based app development and for conversion of values from kg to lbs.
+I have made this kg to lb app to practice logic based app development and for conversion of values from kg to lbs.
  
 </div>
        
