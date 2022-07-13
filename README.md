@@ -22,6 +22,10 @@ This is a basic android app created using java. Here we have to paste any valid 
 
 </div>
 
+## IMPLECIT INTENTS DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=UWNrALdmfWU&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=7&t=3s">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1C101exAbtyeNK0P7TN9VNhsx_ON48WXx/view" download>Click here to download</a>
 
 ## Purpose :point_down:
