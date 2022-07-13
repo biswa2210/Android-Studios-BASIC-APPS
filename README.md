@@ -22,6 +22,10 @@ This is a basic java app kusu world which plays a bollywood hit song 'Kusu Kusu'
  
 </div>
 
+## KUSU WORLD DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=-VRAuFWWd5I&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=8&t=1s">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1-d9phzoCA7nJEG6GF4nvKNvUSvcOCkah/view" download>Click here to download</a>
 
 ## Purpose :point_down:
