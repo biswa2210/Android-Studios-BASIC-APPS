@@ -30,6 +30,10 @@ This is a currency converter android application. It converts Indian Rupees to E
 
 </div>
 
+## T5CC APP DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=f4Qxgnm_2fg&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=9">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1-GtNvefStfPVAzBncTeZA6izQpK8OEi2/view" download>Click here to download</a>
 
 ## Purpose :point_down:
