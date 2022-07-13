@@ -22,6 +22,10 @@ Timer is a specialized type of clock used for measuring specific time intervals.
 
 </div>
 
+## EGG TIMER DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=0yt8zUb_O5k&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=10&t=2s">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1svNssIlleC-rxT1DrgBDLsotTEKRrUg_/view" download>Click here to download</a>
 
 ## Purpose :point_down:
