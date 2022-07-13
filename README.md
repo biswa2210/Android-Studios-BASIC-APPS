@@ -22,6 +22,10 @@ This is a simple name roll printing app using java. This is an android app which
 
 </div>
 
+## NAME ROLL PRINT APP DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=JpkpBgR9lqU&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=5">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1S_WczSbxSLGaluG4hDFtBjmkRESLf9dP/view" download>Click here to download</a>
 
 ## Purpose :point_down:
