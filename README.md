@@ -22,6 +22,10 @@ This is a kg to lb convertion android app made using java. Kg and Lb are units o
 
 </div>
 
+## KG TO LBs DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=yqbr6Wujj38&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=6">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1R4v0CufmuiJ0lWQBToryT9fL7Oyu_JNY/view" download>Click here to download</a>
 
 ## Purpose :point_down:
